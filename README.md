@@ -30,6 +30,11 @@
 
 From inventory tracking to profit analytics, from recording purchases to generating monthly PDF reports, Trade It brings your entire business into one clean, reliable interface.
 
+
+
+📄 [View App Guide & Documentation](./trade-it-guide-doc/tradeit_guide.pdf)
+
+
 ---
 
 ## ✨ Features
