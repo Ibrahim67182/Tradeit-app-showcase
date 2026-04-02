@@ -66,7 +66,11 @@ Record purchases from suppliers and sales to customers with smart auto-calculati
 Maintain a full directory of Customers and Suppliers, each linked directly to their transactions.
 
 > 📸 See `/screenshots/customers/` for Customers UI previews
+
+
 > 📸 See `/screenshots/suppliers/` for Suppliers UI previews
+
+
 > 📸 See `/screenshots/products/`  for Products UI previews
 
 ---
