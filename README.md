@@ -42,10 +42,14 @@ From inventory tracking to profit analytics, from recording purchases to generat
 ### 📊 Analytics Dashboard
 Get a real-time birds-eye view of your business performance — Total Net Profit, Gross Profit, Total Sales, Total Purchases, and Operational Activity all in one place.
 
+> 📸 See `/screenshots/dashboard/` for UI previews
+
 ---
 
 ### 📦 Inventory Tracking
 Real-time stock levels updated automatically after every purchase or sale. Know exactly what you have at any moment.
+
+> 📸 See `/screenshots/inventory/` for UI previews
 
 ---
 
@@ -53,25 +57,38 @@ Real-time stock levels updated automatically after every purchase or sale. Know 
 Record purchases from suppliers and sales to customers with smart auto-calculation — fill any 2 of 3 fields (Quantity, Rate, Total) and the third is computed for you.
 
 
+> 📸 See `/screenshots/transactions/` and `/screenshots/transactions-history` for UI previews 
+
+
 ---
 
 ### 👥 Contact Management
 Maintain a full directory of Customers and Suppliers, each linked directly to their transactions.
+
+> 📸 See `/screenshots/customers/` for Customers UI previews
+> 📸 See `/screenshots/suppliers/` for Suppliers UI previews
+> 📸 See `/screenshots/products/`  for Products UI previews
 
 ---
 
 ### 💸 Expense Logging
 Track business costs beyond product purchases — rent, transport, salaries, utilities. Expenses flow directly into Net Profit calculations.
 
+> 📸 See `/screenshots/expenses/` for UI previews
+
 ---
 
 ### 📈 Reports & Exports
 Generate **Product Reports** (all-time performance per product) and **Monthly Reports** (full month breakdown with net profit). Export to **Excel (.xlsx)** or **PDF** with a single tap.
 
+> 📸 See `/screenshots/reports/` for UI previews
+
 ---
 
 ### 🌍 Multi-Currency Support
 Select any world currency and all amounts across the entire app update instantly. Clean display, no recalculation of historical values.
+
+> 📸 See `/screenshots/settings/` for UI previews
 
 ---
 
